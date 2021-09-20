@@ -11,4 +11,5 @@ Para este problema se utilizó un algoritmo de tipo bubble sort, para poder orga
 Usé bubble sort porque es rápido en la mayoría de los casos.
 
 **Análisis de complejidad temporal**
+
 La complejidad del algoritmo es de O(n^2). Se compone de dos ciclos for (anidados) que recorren el arreglo para seleccionar el valor mayor, llevándolo al final las veces necesarias.
