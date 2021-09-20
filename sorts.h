@@ -8,11 +8,7 @@ using namespace std;
 template <class T>
 class Sorts{
     public:
-        void ordenaSeleccion(vector<T> &vector);
         void ordenaBurbuja(vector<T> &vector);
-        void ordenaMerge(vector<T> &vector);
-        int busqSecuencial(vector<T> &vector, int val);
-        int busqBinaria(vector<T> &vector, int val);
     private:
         void swap(vector<T> &v, int i, int j);
 };
