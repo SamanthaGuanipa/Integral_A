@@ -7,7 +7,7 @@ El programa podrá ordenar (de manera ascendente) los pedidos, dependiendo de su
 # SICT0302B: Toma decisiones
 **Selecciona un algoritmo de ordenamiento adecuado al problema**
 
-Para este problema se utilizó un algoritmo de tipo bubble sort, para poder organizar las los pedidos por orden alfabético ascendente. 
+Para este problema se utilizó un algoritmo de tipo bubble sort, para poder organizar los datos del archivo de forma ascendente. 
 Usé bubble sort porque es rápido en la mayoría de los casos.
 
 **Análisis de complejidad temporal**
