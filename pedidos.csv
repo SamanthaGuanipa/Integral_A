@@ -1,10 +1,10 @@
-﻿orden_llegada,nombre ,pedido,cantidad
-2,Salvador,Tacos pastor,4
-3,Lucia,Sandwich,2
-1,Sofia,Quesadilla,3
-4,Alejandro,Enchiladas,7
-6,Lorenzo,Tacos suadero,10
-7,Maya,Ensalada,1
-9,Laura,Enchiladas,15
-8,Nora ,Pozole,5
-5,Camila,Pastel,6
+﻿"orden_llegada,nombre ,pedido,cantidad"
+"2,Salvador,Tacos,4"
+"3,Lucia,Sandwich,2"
+"1,Sofia,Quesadilla,3"
+"4,Alejandro,Enchiladas,7"
+"6,Lorenzo,Tacos,10"
+"7,Maya,Ensalada,1"
+"9,Laura,Enchiladas,15"
+"8,Nora ,Pozole,5"
+"5,Camila,Pastel,6"
