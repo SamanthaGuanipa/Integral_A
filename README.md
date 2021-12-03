@@ -14,7 +14,7 @@ En este entregable se ordena únicamente la cantidad de la orden del cliente. El
 
 Se seleccionó la estructura lineal queue, ya que así como va llegando el pedido, lo irá asignando uno por uno al chef a manera que sea más visual para el mismo,al culminar un pedido, se hara un pop() para saltar al siguiente pedido. Irá preguntandole al usuario si desea ver el siguiente pedido, de no ser así, volverá al menú inicial. La complejidad temporal de la cola es O(n) ya que irá recorriendo cada elemento de la cola.
 
-#SICT0303B - Implementa acciones científicas
+# SICT0303B - Implementa acciones científicas
 
 **Implementa mecanismos para consultar información de las estructuras correctos**
 
@@ -25,7 +25,7 @@ sorts.h: la función ordenaBurbuja() irá ordenando los datos almacenados en el 
 **Implementa mecanismos de lectura de archivos correctos**
 Se leyó el archivo pedidos.csv por medio de la librería fstream para realizar el sort y el queue, además se escribió la lista ya ordenada en un nuevo archivo .csv.
 
-#SICT0301B - Evalúa los componentes
+# SICT0301B - Evalúa los componentes
 
 **Hace un análisis de complejidad correcto y completo para todo el programa y sus componentes**
 
